@@ -1,0 +1,187 @@
+.home{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+    background-color: #f0e7e7;
+    margin: 0px;
+}   
+
+.main1{
+    width: 100%;
+    height: 400px;
+    border: 2px solid black;
+    margin: 20px;
+   
+    background-color: rgb(243, 237, 237);
+    
+    
+
+}
+
+.main2{
+    width: 100%;
+    height: 400px;
+    /* border: 2px solid black; */
+    margin: 20px;
+
+
+}
+
+.destination{
+    width: 100%;
+    height: 300px;
+        display: flex;
+    margin: 3px;
+    background-color: aquamarine;
+    
+
+}
+
+
+h3{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+.row{
+    margin: 20px;
+    width: 100%;
+  
+}
+
+.abc{
+    margin: 25px;
+    position: relative;
+    
+    
+}
+
+.im{
+    border-radius: 20px 20px;
+    box-shadow: 3px 3px 3px rgb(85, 84, 84);
+   
+}
+
+.pp{
+    text-align: center;
+    margin-top: 4px;
+    font-family: 'Playfair Display', serif;
+font-family: 'Ysabeau SC', sans-serif;
+}
+
+.home{
+    margin-top: 10px;
+}
+
+.name{
+    text-align: center;
+    font-family: 'Hina Mincho', serif;
+    font-family: 'Playfair Display', serif;
+    /* font-family: 'Sofia Sans Semi Condensed', sans-serif;
+    font-family: 'Ysabeau SC', sans-serif; */
+
+}
+
+.db{
+    border-radius: 20px 20px;
+
+}
+
+.main1{
+    border-radius: 20px 20px;
+}
+
+.qt{
+    background-color: rgb(248, 239, 209);
+    margin: 55px;
+    padding: 30px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 98%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #9fa6a8;
+    
+  }
+
+  .text {
+    color: white;
+    font-size: 25px;
+    font-family: 'Ysabeau SC', sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .abc:hover .overlay {
+    opacity: 0.8;
+    width: 100%;
+    height: 84%;
+  }
+
+  p{
+    margin: 20px;
+  }
+
+  .press{
+    display: flex;
+    margin: 10px 40px;
+
+  }
+
+  h2{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Playfair Display', serif;
+    border: 2px solid black;
+    margin: 20px 110px;
+  }
+
+  .a{
+    border: 2px solid black;
+    margin: 0px 7px;
+
+  }
+
+.cont{
+    position: relative;
+    
+    color: white;
+    font-size: 70px;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.scont{
+    
+        position: absolute;
+        top: 12%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-top: 80px;
+     
+}
+
+.card{
+    width: 100%;
+    height: 300px;
+}
+
+
